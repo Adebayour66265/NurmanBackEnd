@@ -40,7 +40,6 @@ const register = async (req, res) => {
 
 
 
-
 const login = (req, res) => {
   res.send("route :     " + req.originalUrl);
 };
